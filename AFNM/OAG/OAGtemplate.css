@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+	background-image: url(Leanardo_Sketches_Background.jpg);
+}
+#content {
+	background-color: #FC0;
+	height: 900px;
+	width: 920px;
+}
+.floatleft {
+	float: left;
+	padding-right: 2 px;
+}

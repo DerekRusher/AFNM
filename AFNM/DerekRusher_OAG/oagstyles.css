@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #00F;
+}
+body {
+	background-color: #FF0;
+}
+#content {
+	background-color: #FC0;
+	margin: auto;
+	width: 920px;
+	text-align: center;
+	height: 900px;
+	color: #000090;
+}
+.floatleft {
+	float: left;
+}
+#floatleft {
+	float: left;
+}
+h1 {
+	text-align: center;
+	color: #000090;
+}
+
+td img {display: block;}
